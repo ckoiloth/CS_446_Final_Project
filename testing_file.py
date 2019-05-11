@@ -1,6 +1,5 @@
 from dataset_generator import *
 from tree_generation_algorithms import *
-from mccreight_algorithm import *
 import time
 import random
 
